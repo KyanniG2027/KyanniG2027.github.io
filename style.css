@@ -1,1 +1,17 @@
+.container {
+    text-align:center;
+    margin: auto;
 
+
+}
+
+button {
+    padding: 5px;
+    border-radius: 25px !important;
+
+}
+
+img{
+    width: 500px;
+
+}
