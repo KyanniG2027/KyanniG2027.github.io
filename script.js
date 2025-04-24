@@ -9,7 +9,7 @@ const body = document.querySelector("body");
 
 
 //Once you can select an Element, can modify PROPERTIES
-body.style.backgroundColor = "lightyellow";
+body.style.backgroundColor = "black";
 
 //Select elements that we need to work with 
 const heading = document.querySelector("#main-heading");
