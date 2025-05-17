@@ -1,6 +1,9 @@
+
+    
 .container {
     text-align:center;
     margin: auto;
+    background-color: rgb(238, 194, 194);
 
 
 }
@@ -8,6 +11,8 @@
 button {
     padding: 5px;
     border-radius: 25px !important;
+    font-family: Roboto !important;
+    border-color: rgb(151, 179, 245);
 
 }
 
@@ -18,37 +23,32 @@ set{
 }
 
 img{
-    width: 500px;
+    width: 320px;
+ 
 
 }
 
-color{
-    background-color: #f1e6da;
 
 
-}
 #box-1 {
     display: flex;
-    background-color:rgb(229, 55, 55);
-    color:rgba(255, 255, 255, 0.555);
-    font-size: 20px;
-    font-family: Roboto;
-    margin-top: 50px;
-
-}
-
-#box-3 {
-    display: flex;
     flex-direction:column;
-    background-color: #ddc0a2;
-    color: 
+    background-color: #c599f4;
+     text-shadow: 4px 5px 10px rgb(246, 237, 244);
     margin-top: 50px;
+     font-family: Roboto !important;
+     margin-bottom: 50px;
+
+    
+
 }
+
+
 
 #main-heading {
     color: #f1e6da;
     font-family: Roboto;
-    text-shadow: 4px 5px 10px white;
+    text-shadow: 4px 5px 10px rgb(12, 20, 251);
    font-size: 100px;
 
 }
@@ -57,5 +57,3 @@ color{
 
 
 
-
-}
